@@ -3,5 +3,4 @@ public class Hello {
         System.out.println("Hello World");
         System.out.println("B21 future SDET learning Git");
     }
-    //do not touch this line
 }
